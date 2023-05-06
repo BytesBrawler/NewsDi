@@ -4,7 +4,7 @@
 Newsdi is a news app that gives you the access to the latest news around from the universe.
 
 # Screenshots
-![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/news.jpeg)
+<img src="https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/news.jpeg" alt= "screenshot" width="20%" height="20%" />
 
 # Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
